@@ -4,7 +4,7 @@
   "description": "simple system monitor app",
   "main": "main.js",
   "scripts": {
-    "test": "mfdiazivorra"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -12,8 +12,10 @@
   },
   "author": "mfdiazivorra",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mfdiazivorra/electron-example-app/issues"
+  "dependencies": {
+    "electron": "^1.6.11"
   },
-  "homepage": "https://github.com/mfdiazivorra/electron-example-app#readme"
+  "devDependencies": {
+    "@types/electron": "^1.6.10"
+  }
 }
