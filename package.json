@@ -1,0 +1,19 @@
+{
+  "name": "electron-example-app",
+  "version": "1.0.0",
+  "description": "simple system monitor app",
+  "main": "main.js",
+  "scripts": {
+    "test": "mfdiazivorra"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfdiazivorra/electron-example-app.git"
+  },
+  "author": "mfdiazivorra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfdiazivorra/electron-example-app/issues"
+  },
+  "homepage": "https://github.com/mfdiazivorra/electron-example-app#readme"
+}
